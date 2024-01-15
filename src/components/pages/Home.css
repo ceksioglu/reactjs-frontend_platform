@@ -1,0 +1,40 @@
+#home{
+  max-width: 1200px;
+  background-color: #ffffff8f;
+}
+.hero-container {
+    width: 100%;
+    
+  }
+  #backgorundvideo > video{
+    max-width: 100%;
+    object-fit: cover;
+    position: absolute;
+    z-index: -5;
+  }
+  
+  .hero-container > h1 {
+    color: #fff;
+    font-size: 70px;
+    margin-top: 0;
+    padding-top: 40px;
+    text-align: center;
+    border-bottom: 4px solid white;
+  }
+  
+  .hero-container > p {
+    margin-top: 30px;
+    color: rgb(247, 247, 247);
+    font-size: 45px;
+    font-weight: bolder;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+      'Lucida Sans', Arial, sans-serif;
+  }
+  
+  .fa-play-circle {
+    margin-left: 4px;
+  }
+  
+  
+  
